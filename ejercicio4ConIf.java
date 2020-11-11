@@ -7,6 +7,7 @@ public class ejercicio4ConIf {
 
         while (cont == 1){
 
+            System.out.println("Ingrese un número del 1 al 7:");
             int dia = sem.nextInt();
 
             if(dia == 1){

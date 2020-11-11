@@ -7,6 +7,7 @@ public class ejercicio3 {
 
         while (cont == 1){
 
+            System.out.println("Ingrese la calificación:");
             int cal = test.nextInt();
 
             if(cal >= 0 && cal <= 59){

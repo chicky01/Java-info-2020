@@ -6,6 +6,8 @@ public class ejercicio4ConSwitch {
         int cont = 1;
 
         while(cont == 1){
+
+            System.out.println("Ingrese un número del 1 al 7:");
             int dia = sem.nextInt();
 
             switch (dia){
